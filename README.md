@@ -1,5 +1,6 @@
 # Authentication Project
-Jose-Medrano
+Jose Medrano 
+
 ## Topics
 
 - Authentication.
